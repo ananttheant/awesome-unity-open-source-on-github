@@ -408,6 +408,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unity-HierarchyHelper](https://github.com/gydisme/Unity-HierarchyHelper) - The fastest way to create Unity Hierarchy GUI items ever
 - [EditorGUIHierarchyView](https://github.com/miguel12345/EditorGUIHierarchyView) - Easily add a Hierarchy view (like Unity's scene view) to your Editor UI
 - [Unity Hierarchy Menu Customizer](https://github.com/baba-s/unity-hierarchy-menu-customizer) - Customize the menu that appears when you right-click on Hierarchy
+- [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator) - Provides custom drawing within the Hierarchy window, and add extra information functionality
 
 ## Project View
 
@@ -1096,6 +1097,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 - [EcsRx.Unity](https://github.com/EcsRx/ecsrx.unity) - A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems
 - [Unity ECS with navmesh and MapBox](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
+- [EntitasTanks](https://github.com/cloudjubei/EntitasTanks) - Entitas port of the Unity Tanks Tutorial project
 
 ## Sprite
 
